@@ -24,7 +24,7 @@
     "get-md-title": "^1.0.4",
     "medium-sdk": "0.0.3",
     "minimist": "^1.2.0",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "xtend": "^4.0.1"
   },
   "devDependencies": {
